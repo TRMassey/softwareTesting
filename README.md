@@ -34,9 +34,8 @@ When complete, please CAT fileName.out to view tests and coverage.
 
 URLValidator Information -
 
-An opensource URL validator was changed by the teacher, so it would contain four bugs. These bugs are are found in the
-source code.
+An opensource URL validator implented in java was altered by the professor so it would contain four bugs. These bugs are still present the source code.
 
-URLValidatorTest contains the tests written by myself and two other team members. 
+URLValidatorTest.java contains the tests written by myself and two other team members. 
 
-Planning, input partitioning and bugs found can be reviewed int the project report, both in text and PDF.
+Planning, input partitioning and bugs found can be reviewed in the project report, both in text and PDF.
