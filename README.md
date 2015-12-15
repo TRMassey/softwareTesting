@@ -1,6 +1,7 @@
 # softwareTesting
 
 Dominion Testing Information -
+
 Please note, for these tests comparisons between game states were used, with success/failure
 indicated in print statements. Asserts were not used. This was a request from the instructor 
 and TAs for grading and testing. All data is printed for out for the TA for grading and identification
@@ -29,7 +30,10 @@ make randomadventurer.out
 When complete, please CAT fileName.out to view tests and coverage.
 
 
+
+
 URLValidator Information -
+
 An opensource URL validator was changed by the teacher, so it would contain four bugs. These bugs are are found in the
 source code.
 
